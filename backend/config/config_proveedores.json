@@ -1,0 +1,15 @@
+{
+  "mas&mas": {
+    "extract_config": {
+      "skiprows": 5,
+      "usecols": "a:e"
+    },
+    "transform_config": {
+      "column_mappings": {
+        "Codigo": "item",
+        "Descripcion": "product_name",
+        "PrecNeto": "product_price"
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  background-color: rgb(248 250 252);
+}
+
+@keyframes bounceIn {
+  0% {
+    transform: scale(0.7); /* Empieza más pequeño */
+    opacity: 0;
+  }
+  50% {
+    transform: scale(1.2); /* Se agranda ligeramente */
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1); /* Vuelve a su tamaño original */
+    opacity: 1;
+  }
+}
+
+/* Aplica la animación */
+.animate-bounce-in {
+  animation: bounceIn 0.3s ease-in-out;
+}
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+
+input[type="date"]::-webkit-inner-spin-button,
+input[type="date"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+input[type="date"] {
+  -moz-appearance: textfield;
+}
