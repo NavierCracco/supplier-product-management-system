@@ -1,9 +1,7 @@
-<table align="center">
- <tr>
-  <td><img src="assets/icon-logo.png" alt="Blynt Logo" width="80"/></td>
-  <td><span style="font-size:2.8em; font-weight:bold; margin-left:18px;">Blynt</span></td>
- </tr>
-</table>
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 18px;">
+    <img src="assets/icon-logo.png" alt="Blynt Logo" width="80"/>
+    <span style="font-size:2.8em; font-weight:bold;">Blynt</span>
+</div>
 
 <p align="center"><em>Sistema de gestión de productos y proveedores para ferretería (desarrollado originalmente para Ferretería Detroit).</em></p>
 
@@ -26,7 +24,7 @@
 ## 🖼️ Vista rápida
 
 <p align="center">
- <img src="assets/lista-de-productos.png" alt="Vista de productos" width="600"/>
+ <img src="assets/lista-de-productos.PNG" alt="Vista de productos" width="600"/>
 </p>
 
 ---
