@@ -1,14 +1,17 @@
-<div align="center">
- <img src="assets/icon-logo.png" alt="Blynt Logo" width="60"/>
- <h1 style="display:inline; vertical-align:middle; margin:0;">Blynt</h1>
- <p><em>Sistema de gestión de productos y proveedores para ferretería (desarrollado originalmente para Ferretería Detroit).</em></p>
-</div>
+<table align="center">
+ <tr>
+  <td><img src="assets/icon-logo.png" alt="Blynt Logo" width="80"/></td>
+  <td><span style="font-size:2.8em; font-weight:bold; margin-left:18px;">Blynt</span></td>
+ </tr>
+</table>
+
+<p align="center"><em>Sistema de gestión de productos y proveedores para ferretería (desarrollado originalmente para Ferretería Detroit).</em></p>
 
 ---
 
 ---
 
-## ✨ Características principales
+## ✔️ Características principales
 
 - **Gestión de productos**: Alta, baja, modificación y filtrado de productos.
 - **Gestión de proveedores**: Administración de proveedores y sus archivos asociados.
