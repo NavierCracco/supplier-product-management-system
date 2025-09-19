@@ -1,6 +1,6 @@
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 18px;">
     <img src="assets/icon-logo.png" alt="Blynt Logo" width="80"/>
-    <span style="font-size:2.8em; font-weight:bold;">Blynt</span>
+    <h1 style="font-size:2.8em; font-weight:bold;">Blynt</h1>
 </div>
 
 <p align="center"><em>Sistema de gestión de productos y proveedores para ferretería (desarrollado originalmente para Ferretería Detroit).</em></p>
