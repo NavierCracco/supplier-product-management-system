@@ -34,8 +34,6 @@
 ```text
 product-management-system/
 ├── assets/           # Imágenes y multimedia para la documentación
-│   ├── icon-logo.png
-│   └── lista-de-productos.png
 ├── backend/          # Backend Django (API, lógica de negocio, ETL)
 ├── frontend/         # Frontend React (UI, consumo de API)
 └── README.md         # Documentación principal
